@@ -30,4 +30,4 @@ Desenvolvedor apaixonado por tecnologia, sou estudante de Ciência da Computaç�
 
 📈 Vamos conectar e compartilhar conhecimento!
 
-![Snake animation](https://github.com/LucasSilva3101)
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasSilva3101/LucasSilva3101/output/github-contribution-grid-snake.svg">
