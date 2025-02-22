@@ -28,7 +28,6 @@ Desenvolvedor apaixonado por tecnologia, sou estudante de Ciência da Computaç�
 
 ---
 
-📈 Vamos conectar e compartilhar conhecimento!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasSilva3101/LucasSilva3101/output/github-contribution-grid-snake-dark.svg">
