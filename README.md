@@ -3,11 +3,11 @@
 Desenvolvedor apaixonado por tecnologia, sou estudante de Ciência da Computação e estou no último ano da faculdade. Tenho experiência em desenvolvimento de sistemas, com foco em **Angular**, **Java** e **Spring Boot**.
 
 ### 🚀 Principais habilidades
-- **Frontend**: Angular, TypeScript, HTML, CSS
+- **Frontend**: Angular, TypeScript, Bootstrap
 - **Backend**: Java, Spring Boot
 - **Testes Unitários**: Jest, Jasmine, Karma
-- **Banco de Dados**: MySQL, PostgreSQL
-- **DevOps**: Git e CI/CD
+- **Banco de Dados**: MySQL, PostgreSQL e MongoDB
+- **DevOps**: Git, CI/CD e kubernets
   
 <div style="display: inline_block">
   <img align="center" alt="angular-icon" height="39" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
