@@ -7,7 +7,7 @@ Desenvolvedor apaixonado por tecnologia, sou estudante de Ciência da Computaç�
 - **Backend**: Java, Spring Boot
 - **Testes Unitários**: Jest, Jasmine, Karma
 - **Banco de Dados**: MySQL, PostgreSQL e MongoDB
-- **DevOps**: Git, CI/CD e kubernets
+- **DevOps**: Git, CI/CD e Kubernets
   
 <div style="display: inline_block">
   <img align="center" alt="angular-icon" height="39" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
