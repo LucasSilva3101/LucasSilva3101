@@ -20,6 +20,8 @@ Desenvolvedor apaixonado por tecnologia, sou estudante de Ciência da Computaç�
 
 ### 📚 Projetos recentes
 - **Portfólio em Angular**: Página para exibição de minhas experiências profissionais com interatividade.
+- **VisionWay**: Aplicativo mobile para auxiliar deficientes visuais a se locomover por meios urbanos utilizando IA. <a href="https://github.com/LucasSilva3101/TCC_VisionWay" target="_blank">TCC_VisionWay</a>
+- **VisionWayWeb**: Projeto web que utiliza visão computacional e IA para reconhecer lixo em praias. <a href="https://github.com/LucasSilva3101/APS_2025" target="_blank">VisionWayWeb</a>
 
 ### 📬 Como me encontrar
 <div> 
