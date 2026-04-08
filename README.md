@@ -32,7 +32,8 @@ Desenvolvedor apaixonado por tecnologia, sou estudante de Ciência da Computaç�
 
 ### 📬 Como me encontrar
 <div> 
-  <a href="https://www.linkedin.com/in/lucas-silva-b89171269" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="www.linkedin.com/in/lucas-da-silva-gomes-b89171269
+    " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 ---
